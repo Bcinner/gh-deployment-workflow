@@ -17,4 +17,4 @@
 ## Об авторе
 Примите на работу devops'ом
 
-URL проекта: https://github.com/Bcinner/gh-deployment-workflow/actions/runs/41498425309
+URL проекта: https://roadmap.sh/projects/github-actions-deployment-workflow
