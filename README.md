@@ -14,3 +14,5 @@
 - YAML
 - GitHub Pages
 
+## Об авторе
+Примите на работу devops'ом
